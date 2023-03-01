@@ -23,6 +23,7 @@
         {
             "name": "Mathieu Vedie",
             "email": "mathieu@vedie.fr"
+        }
     ],
     "require": {
         "php": "^8.0",
