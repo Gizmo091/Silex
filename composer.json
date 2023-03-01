@@ -1,5 +1,5 @@
 {
-    "name": "zmog/silex",
+    "name": "zmog/slx",
     "description": "The PHP micro-framework based on the Symfony Components",
     "keywords": ["microframework"],
     "homepage": "https://silex.symfony.com",
