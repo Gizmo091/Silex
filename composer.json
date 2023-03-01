@@ -1,5 +1,5 @@
 {
-    "name": "silexandfriends/silex",
+    "name": "zmog/silex",
     "description": "The PHP micro-framework based on the Symfony Components",
     "keywords": ["microframework"],
     "homepage": "https://silex.symfony.com",
@@ -19,7 +19,10 @@
         {
             "name": "Roberto Nygaard",
             "email": "roberto@nygaard.es"
-        }
+        },
+        {
+            "name": "Mathieu Vedie",
+            "email": "mathieu@vedie.fr"
     ],
     "require": {
         "php": "^8.0",
