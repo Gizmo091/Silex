@@ -468,7 +468,7 @@ class Application extends Container implements HttpKernelInterface, TerminableIn
      *
      * @param Request|null $request Request to process
      */
-    public function run(Request $request = null)
+    public function run(?Request $request = null)
     {
         if (null === $request) {
             $request = Request::createFromGlobals();
